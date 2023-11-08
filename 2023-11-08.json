@@ -1,0 +1,26 @@
+{
+  "name": "Gertrude Baldwin",
+  "age": 49,
+  "address": {
+    "street": "Uwusi Highway",
+    "city": "Zuwevu",
+    "state": "IA",
+    "zip": "61974"
+  },
+  "contact": {
+    "phone": "(530) 273-3830",
+    "servicePhone": "800549285"
+  },
+  "birthday": "1995-07-23T11:22:47.789Z",
+  "ip": "63.133.99.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Koihite iz girauko mono li una kemfa opidozaw tahe waew vek lezkejo pos lufoge. Ivawalu tilta et adpu jedamom avi tevuhnir rehmi toftutzo warkuj lum aj. Kom jonkekgaz dohila solbuhmod nojlazjun zofahe epuguf vo fi fobasa vek ekapile sobjuoto ga.",
+    "bio": "Wuj ojihur hot tagere esfu pan zigawvuv vuwlobor ode olsa meseto ceran ibofo. Muwid dodgu hedujil vut ewa tud rakezu ufaot suzowi sut votruswo kukermec azfe ri jujwi po on isiwaif. Keskajal esfu forduc heh naf liveka ifi hesi be sitege orroci roj harekefo hobjiho toh juhaud saca to."
+  },
+  "apiKey": "91b7bbce4140503cd457bfb595308215c783c732be95c47d3e39765daee671fd",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
