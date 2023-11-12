@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Farmer",
+  "age": 62,
+  "address": {
+    "street": "Lumuk River",
+    "city": "Gecaku",
+    "state": "VA",
+    "zip": "50710"
+  },
+  "contact": {
+    "phone": "(488) 675-5443",
+    "servicePhone": "800436618"
+  },
+  "birthday": "1979-11-08T11:36:04.770Z",
+  "ip": "26.181.32.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Kifomo tekav igomebo kafdoki da heb wa vateza zikiraj za hecoz jeje rijan oh hikpamde cuhlim. Le zew bi iphumec ginza ufhopi karkube lebwajel opfi pe ragut lut wioc tein cawiru cepolpa. Gubav inuunu hicvah bogavaz futoj rup hamcesjol abiojinos dabahnus setne lalwos avonub rutiw.",
+    "bio": "Ligganot faktuse pijavji icod ledotu uminu mefse niasad isesadwej ih joru sav ba cagidaz wis vul pih. Lib ro du avageguw an tiuse toclicwiz ukihegle wedkogu gaazicib misubag ippob odujovob wet siamo gofippoh. Madah mut vasis ji vunfe av co gedu bav ove gago mo jihof sapkaamu."
+  },
+  "apiKey": "9fc294c19d7be0790b36630e6fc1a289483efae57541707ec10a020287e6e859",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
