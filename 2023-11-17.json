@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Wilson",
+  "age": 50,
+  "address": {
+    "street": "Tujala Circle",
+    "city": "Megibero",
+    "state": "NV",
+    "zip": "05295"
+  },
+  "contact": {
+    "phone": "(735) 322-9386",
+    "servicePhone": "800975791"
+  },
+  "birthday": "2001-01-01T02:37:06.062Z",
+  "ip": "90.248.217.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozhof rughiz te fotuv wo kapre jenafhul hug berbu zeop wedopi aduzo. Vocfu mikevzaz uloco edi ozeowiil ne biziaha rubuf kooce jujuf dezgi ohsodol ap avunuuno gufpa. Noturi tid badutu posremon pazopjev jaigve cileh tace iko fanupsu edpomu za. Laev uwelwek tamog gaama it ne tozbib ileja heisa taag niworbik cinige kojuzhar.",
+    "bio": "Wijesaok ja feso su ret bon omolfa pefi ughabew ajjej obasubhu ci fo ikebemuz kileku. Di dup luin zapepi nawe jueme zacmowef wipfu ahkola jowbik boce tozipto cegi ufijugju cese abguw ugcofjol. Sutahfo rap opja kojeh zoz ekubocjek badoj ceen tapakeb ete cuje zovharog facij."
+  },
+  "apiKey": "d3a48fd487c3479e055667ea44c8d5013dfb5e167a4fba8a2a2726f309de1bbc",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
