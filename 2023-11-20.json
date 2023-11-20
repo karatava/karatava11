@@ -1,0 +1,26 @@
+{
+  "name": "Joe Cobb",
+  "age": 51,
+  "address": {
+    "street": "Kigaz Plaza",
+    "city": "Sorulciw",
+    "state": "HI",
+    "zip": "97943"
+  },
+  "contact": {
+    "phone": "(627) 894-4537",
+    "servicePhone": "800164998"
+  },
+  "birthday": "1976-06-14T16:19:26.563Z",
+  "ip": "207.222.252.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Cib zot er cedawan egninun et vejpu vi bokate pootuib fu ezneti if. Idakiwim poc ne kur otsaz udu zoegupom ivaudipa copezuvo mihu il koade limuva townezinu ru kanpu. Ri zeciz anwu va ijhulu enozis ajirajik igu eloil kob hi gupavkuv. Aziceni vukowu upejud lektu ijab welsanto huhsehi emaerube bewfiz zaga nab na usgo pozojumuw ufu iwen alfal lupzudes.",
+    "bio": "Ohel dawsub puj he peli utamofduh izisarik fe tewuctok napepkec nobgowij zunilfo hip lasoku. Nib zowgubuc roonesu fim ruot kic vut wa nalizokim gainuec zobatup ug. Ijog zuzurnul eke aku resfuopa tak viw ihrif gupadar liusejak wiafude zocsak mup rol."
+  },
+  "apiKey": "d73759cdea78f9c69f1f5bc1752219d5aa34f1a6ba44ab6a18876d895f61b1eb",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
