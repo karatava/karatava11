@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Thompson",
+  "age": 19,
+  "address": {
+    "street": "Viko Circle",
+    "city": "Evuniak",
+    "state": "HI",
+    "zip": "70180"
+  },
+  "contact": {
+    "phone": "(305) 532-3762",
+    "servicePhone": "800612958"
+  },
+  "birthday": "1968-05-20T06:40:09.442Z",
+  "ip": "140.67.15.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Hicid tifebzi nilefamad cuwoj tecisce pesadjuw co ge vafkumoje rute degichap deljovo ejki esgibfe. Tegapa ne zed odvatne za cuju zuwumiju ej hosjoglo fuj kuhmerul juwbunim sakemeb tojurhuk durorpaj ujezu fob olovuhu. Ze gap millujo cuida ficusegi id ipuh egwej sep kaphog duvuva dokciki fup cep sukup vak lof bovgu. Papu ebu vat ogijafewu mosobizu ulucag osi cedmo gu nosomu itjide wiamwad moamozet jucoone. Dubjacvuk ziujce bawwitub vac lahisab ha fimbit pegid vesva roabkis ni galula huw vemgemji revi koidus vefizaw. Em moctikmar kapapuw be vivezo lepevote wa mevagla gih butiwman wuhej latzi mur timrehus bo iglif hobac.",
+    "bio": "Loz urdezase vioka cate piv wav baun ibla jam potvevzuw nuage posektij jeslori neam. Irukol hej jolu imerurwe anovu ohnigaf ruehutij ze lu cu sa lig tonampaj mukomiho te sup. Tuz opzu dedlatbo guj lo jaomtum obaju inehih de abbu fesdavral vope."
+  },
+  "apiKey": "d85d752dc8fac5b7c48a2f045509bfb3bb36d1c1b37133efa9a1567ef9175467",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
