@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Nguyen",
+  "age": 61,
+  "address": {
+    "street": "Jule Point",
+    "city": "Azhozo",
+    "state": "MT",
+    "zip": "58129"
+  },
+  "contact": {
+    "phone": "(945) 541-6084",
+    "servicePhone": "800145618"
+  },
+  "birthday": "1964-06-16T12:24:13.881Z",
+  "ip": "66.165.57.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Rasonutem uno in bon sewif vanut wecnam ke to te edeef hetabro gelluz rebnomuh seju ragzol vo. Ic del vaw iseanejak misu iluwocun bif zev jo pik joloj hi. Sinsosna pu pinovineh ad jopow durabbo giwin na jape nekop dosese uhegovfam kutem juv weju. Bohvedsak ke wur tuzdepal obo jougo busak wihjezum lewikic lunhan po cip vehwiw fe ku. Fen tal newec cap wazekav sas ligdoave ga pitla sogik gakuuzo lompumej lin dudehrur zokelom astat cifel.",
+    "bio": "Hu nu mo jif imoid eci igofuah ji bo adize teegic gajjogti re zad. Sonkadut pewatna bo ge raz ev niluman abuzehlah vo oda joku jabeveul barola jo oh darak peuko. Efa lurrad pignisimo lah lahna riroihu ris aji begjelu fol tave bu feburum tuj koza at. Tunala nuuji akezovusi dev kikwa womam hucwon he si suftij huhenih heuv eflo haajik. Sokaz ita ciksepi tumij dammohih zi dasufku gok gucfe bemac api osi ze."
+  },
+  "apiKey": "98ceda34447cd8599e135aecabde86b93fcfdc86d8749e2bd24ac7bcc23525f2",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
