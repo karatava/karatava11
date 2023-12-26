@@ -1,0 +1,26 @@
+{
+  "name": "Elijah Daniels",
+  "age": 29,
+  "address": {
+    "street": "Cahec Avenue",
+    "city": "Tivuni",
+    "state": "IL",
+    "zip": "89966"
+  },
+  "contact": {
+    "phone": "(346) 310-5736",
+    "servicePhone": "800142133"
+  },
+  "birthday": "1962-10-14T16:23:01.388Z",
+  "ip": "113.30.99.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Osbed ekkiz savpa fujocur paoza doroh newis fa zajov inisijiv be urosokude ti mer upipi. Hicu cejut usamepja ce kucehiem vemoj bu ato ler ku mi iv paece vev wu hu. Jub zuv bajur caram wah kojoget so ip nemi rewu ecuji ipaor ofulumef ahoehivaj uzpa ujabe pel loke. Fepfab to nemiuho nehersip se vir zadil pikakfo kapla codilko vepluswib jihdo nil wo bak.",
+    "bio": "Utuneh cuga vif zi vunhupna mos emekis wag ubkud fol ufo fiskos eh mer. Dizov wunuc goujohet urkuad nok hub aze be ava si ivaka sivomsep zu cifnum. Re cujder delhi wu momdubema vejjup dusantub bul bepik oluzil uve pe du wegavmim ikoimeso. Tekun fewu zolvec vene kazil doomkij ab ho jonihniv jub vosiw vidbaaki. Sial inoudza cuvikje id mihenet hicaeva gak dafte co higfo wa zasbed utug pumiec. Ocpen wele nubvod cuw roduk huga koncin kise cunjacu wawo noizvan zubepi luckenmi caha ci pakowad."
+  },
+  "apiKey": "bc0680517123c6a03b1b041a911ae6558473d2fe424a708a7e69d1e2babb7207",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
