@@ -1,0 +1,26 @@
+{
+  "name": "Violet Howell",
+  "age": 25,
+  "address": {
+    "street": "Emjaw Heights",
+    "city": "Fekikmig",
+    "state": "ME",
+    "zip": "77659"
+  },
+  "contact": {
+    "phone": "(760) 530-8029",
+    "servicePhone": "800128422"
+  },
+  "birthday": "1989-04-12T23:06:54.493Z",
+  "ip": "222.27.228.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Java dib etasi duhto funonnu fote uhorehufi foc ni turavo deb fe. Zicum cunumpal lopmuspiv jekzo kajhez co telvo uvoso bigapi venha citzahsun suirulef. Je mek usmonrul gizdapuc amokon se bu popicajej ulsofvac acuan ulsu tajzof uta oduejco pal dozal.",
+    "bio": "Mujjered pawufot gul jime akowub avde de niliwumu fajo naszikpa ju hulhocfit. Rili lil ino nuawu idu vi nov mippike cuanlap suzav tijzanow vantom jozbac venoba lormupe jozided. Bow deovob ceku madunpej bac duc ve cudem nolooka dowuz kodbedowa pihi su mopuatu kocso. Pazlu toaju kavan ita sijdah dilfugnos zah vafpujzi tijcuw do dadlof zu ogolo wovi titpu."
+  },
+  "apiKey": "2d70de6576e84e7b8b307af646ef009c14348a99515ee582100418bc42f3395c",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
