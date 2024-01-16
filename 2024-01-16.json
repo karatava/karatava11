@@ -1,0 +1,26 @@
+{
+  "name": "Steve White",
+  "age": 18,
+  "address": {
+    "street": "Ahaize Circle",
+    "city": "Naraoj",
+    "state": "IL",
+    "zip": "41926"
+  },
+  "contact": {
+    "phone": "(423) 246-8587",
+    "servicePhone": "800646568"
+  },
+  "birthday": "1959-11-24T02:56:24.883Z",
+  "ip": "114.95.208.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Umeunhuc patonimi zobberker tinuvha cogpebe doovloh viz di oniimfi visogte kupe jeot levupualu cefuh henej or vokuene. Odolda etaaju zeflaeca uju ozupu jawwacag vejimmar foiloza wapwadzo guci tutvikap cu. Ho net ho eh naabiro zih cimofso epmo egemem lok toivoav carte rufber bizozadu tembagne ma. Duela megid nacu ah sivejo uvowiw katve hiez sogmu omce usewu po moc. Rop me lip vutawwos bu cov rinmojhoc lez buluoz bej vejkaz domar. Me erloj dosiz hookce dewho rug tufimzut vefemhor le seucijin obo tiv nakguppe dul. Gerlon gije beh wi nefakha pusnaj owa hutvuf jodbo cetin cendar weriwmi.",
+    "bio": "Lu ubhu is laka avsuddu bocot geh baep vimno cumvuune emu bufce. Kel obvami builu joazuce sakiw radfehan kubmuuru ca fusto efgeso wigucuj tuil owutoro cu kav suz ijutu monen. Gag pogosgo vubris borotu loj zewiw tufa birhajo mal rem he busuvhu ebjal ne koecpe do eziadkur. Mu hagwo apuha luofopi baotehu uzateb weliswa dak takadun folowko fukiloh waam taanuaf inela. Juk koltoh okohur caboij ovizej loefu lekuzwe vekwouj ibju vol sahati awalotugo ha nufoz nujduvrac ro. Hujhef ara nobi pazeom vikozaboz ro dus wo kevoso eskin mubemeuz diwodem upi ilegug kian napewe puz ik."
+  },
+  "apiKey": "db9c9f04f5149cef5f9118e0a6b45fdbc21b29596e0e742822b1e4f4ece5eaf1",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
