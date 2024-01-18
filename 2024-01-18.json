@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Leonard",
+  "age": 59,
+  "address": {
+    "street": "Pawi Park",
+    "city": "Farmeco",
+    "state": "MO",
+    "zip": "04379"
+  },
+  "contact": {
+    "phone": "(617) 278-3821",
+    "servicePhone": "800653956"
+  },
+  "birthday": "1974-05-30T04:27:56.827Z",
+  "ip": "162.208.199.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi iva cigew haolaofo zinwas acbo unepop zebrislez til berosere gas hirlacmow jevaw. Vo mebmato vezmus him reoseeju hocusti so jikdezrab heowaku kibzezini hovecoz ze. Rocza gobepuz dopavne vaz ozpaw sog cezali uw codzer rajule mefa toov.",
+    "bio": "Evo nuiri mup ihed hil vaj gihli pucuwufej op wuh fekasud tu ju. Vecpi kalbija wuonmi top apivi bih wedwuwfid ep lolki makafjo vodepcaf safvibi jamevmi suk tasmavop kupnawmec fohow. Wolmeb ive oreta pehwocaf jic vimca kemvewge ohbe doti ipjiwmi bevmo fawi dot relinub caipa meluv dage bushe. Ohrapip sitfemcas ral fahiti otisi eterukef guihute ko ged vojzabhi normiah misnuzu datale."
+  },
+  "apiKey": "12932e4e29903459c998d485236f4028948cb0dcaf1e6db079e894025482383b",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
