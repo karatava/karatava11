@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Schultz",
+  "age": 45,
+  "address": {
+    "street": "Godpo Road",
+    "city": "Gijizieno",
+    "state": "MT",
+    "zip": "73272"
+  },
+  "contact": {
+    "phone": "(860) 969-3683",
+    "servicePhone": "800255142"
+  },
+  "birthday": "2002-12-31T01:43:26.120Z",
+  "ip": "254.233.144.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Defoj was redav relkev da hurivpu tublefu lugijhe uw nu malahjut har hu ubagu givajog zite nodu juj. Apnenvih suziko rim lor ope ac mejlo sud utilu hojom rucvegaf mes fowfij etzoj. Co gitah robzad emogoja se vusvic jajjuok got ga wekipo bepnob orewe mege colow.",
+    "bio": "Icimedbi wanouf novolpob disje pekidup pitep nucanfop uta pu iwmo ja zi onisilab le co pansiwvik. Daspuhu vul wocjujal wak zirzicek zo tamta fu fovicku egaditol op zetanop tucmokov bedarra teobe etlel. Geomagoh foszu budaf nalzu soobo idu jan fikusizu zos kamuj to ma icoro."
+  },
+  "apiKey": "939a0e1b565096371f09effa30b7f236fa238bd5f7a82e34b765f1c9bbb3bdf8",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
