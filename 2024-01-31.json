@@ -1,0 +1,26 @@
+{
+  "name": "Amy Thompson",
+  "age": 29,
+  "address": {
+    "street": "Gadur Street",
+    "city": "Kialunis",
+    "state": "CT",
+    "zip": "11567"
+  },
+  "contact": {
+    "phone": "(715) 891-4272",
+    "servicePhone": "800771785"
+  },
+  "birthday": "1981-12-09T05:09:30.027Z",
+  "ip": "209.50.185.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Odeuji sovaic juikduk pawtu su uj livdewica po beszifod petuvnod idru gugsiij. Wehzaeg bol gidlom roecu ziteetu zuhig piiga di hoverlu witbo wo ladirke ju. Erfabic koniru pepzin rote evwogfeg haezalev anhomjen ha aba sizce le futo. Eh bareto fopepwiv ejlo gumahcuc filhek ba hojo ati bin humwi bis idoeku cuuvokab.",
+    "bio": "Nam caokuli goj mimit uplah lom amba ehpop cejji fif paegu himsev unigeza darovu fesupa je ida badhugsob. Zec ban zuvaji udulawih ju zu so omtisku rargiw julho ra tedliiz dukenusah za. Wuas cihkeco ipdi vebaka kowmus tubun suzem to afe ce ru rufwamuk pahe hasif. Waki vowbauke inasijip fo ba je ezimedav ahde hiho lo hobkikebo jocri odu bisom zohtopo siuze lahoni cimbitaj. Nekibamun bobe gu resuebi nibki no it dufuve ug jowgod so pihakpe zufif ducohag zafhu. Cija tozlitzev vado rofuwe porezgu we dir locat hofil cor olpe negci tuojkaf. Geb biwkij cetewro row lenezfuz livsaw paztolug ma keg ce kuj ci rog lu hiwogjo wabme."
+  },
+  "apiKey": "8468abfec0346c63bc68acdce64432d6d356ece923663f43727a23cf7c49c5b5",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
