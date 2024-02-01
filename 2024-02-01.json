@@ -1,0 +1,26 @@
+{
+  "name": "Jose Gray",
+  "age": 49,
+  "address": {
+    "street": "Wawe Turnpike",
+    "city": "Linihiive",
+    "state": "OR",
+    "zip": "94888"
+  },
+  "contact": {
+    "phone": "(424) 977-9697",
+    "servicePhone": "800681335"
+  },
+  "birthday": "1996-05-05T08:21:40.223Z",
+  "ip": "211.66.4.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Hamade peri jehane pan maupo civatame eg kaspeir fagfev pasjelbo gi gitime koefena lankom mahiwuvu. Jirdes ke jonam fus tijonoz ilumah vefno nar vullate mukepje milef ju te ukemi cu kij ko. Vav focfebmuh ubje toliwsa zel puvu mevo ke mozpesdeb raf ifulo jov jufva.",
+    "bio": "Raz hihe puf humika cabji gevum basohi be buw nipwiohe tudevogut ven defecnah agihuc za kumeh. Udgul zicel kovsop us gilah ker ew foasikah taipgu puwosa reekize dejkob zi ove julober size ucfusjic li. Otcuh hokfeb rehojde jumi ahotu ducikof gaon cifji ra vikzu muja uca el hih. Ja sew tem zimurgu ke lupo gapsoar hirokduh vuobi lu mubgercac tow hubinuhu hevaru ga mizno vasuj."
+  },
+  "apiKey": "e37e6a3f9fe69762dc63d8777f32a397614859b4e2dd5ba3fd76416af44c316b",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
