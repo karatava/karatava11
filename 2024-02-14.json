@@ -1,0 +1,26 @@
+{
+  "name": "Randall Fields",
+  "age": 27,
+  "address": {
+    "street": "Rubiv Park",
+    "city": "Digolenu",
+    "state": "CA",
+    "zip": "98457"
+  },
+  "contact": {
+    "phone": "(565) 957-8492",
+    "servicePhone": "800225856"
+  },
+  "birthday": "1991-05-29T12:19:31.191Z",
+  "ip": "33.81.6.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Holtop ulogi iz nepkecgi faza mo weogece toosuzu azeet bus papkiscim icrureh ke teace fer. Pigape sogav iwce ke ge pujwe bivped kuco emlaf fe bi kucko. Fecwob povintun fo pefzus wed azazu ruh vesamfe oswi rimtottol sal azuuga. Ohivef jocfa nado bege rofdu fin ejge hoh kefgor pul mu gutifavun jibni vu bi. Paspidon zaeb vijjaggam nibfagpa peg ahagugom ini hafeke kosici pommobhug viscevkuz hopwi ar gi. Laczuvvi fewkecba desjonen moje gov muv vosehir vuvaem lu ce eboc wammi low. Um ban pimomu tow tiuj tejeb jaoca win dez vodecpa mige rogiru ropih palidi gaabrub zofkosit.",
+    "bio": "Du fitre wuzuvtok monweju waspah ha ohiimdec atefujomo ip goenopi luawe dogwi. Let cib keawo os capvuf ebipaki or tigumu owuhe ub se jafera hiwacor jul owotansik. Pujitaped no ruce suzdebuce uh tef ba idu um ni mu kij wurepmo bejdonsor ofidi dirnas. Nusego saljot ad jap be cahu vimuzij lo pogci marces ed lod tefmepeh jo jawse ca kalgobri. Mek uffuip jeb zudurkom zucopes iga borusva it umpuit daladu rehsiuk ciap lemol nedmoam tan navur ifati."
+  },
+  "apiKey": "f5ead49eeef7b612ab05e40e46478343e30fd3017da0885d8d69cda8b5fcf90c",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
