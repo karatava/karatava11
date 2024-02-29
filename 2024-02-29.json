@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Franklin",
+  "age": 42,
+  "address": {
+    "street": "Omaza Square",
+    "city": "Micbuaj",
+    "state": "DC",
+    "zip": "64169"
+  },
+  "contact": {
+    "phone": "(602) 992-1872",
+    "servicePhone": "800289122"
+  },
+  "birthday": "1975-09-18T20:51:23.073Z",
+  "ip": "160.235.112.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro getso ub wi ve na coimnih lejrosu lifo jemiveara akle bami gicujiwor vi huj azu fiweki. Ijkura wi uh ugunuf be omjuwo fasaluw rowcoten ca mepzov kijwebe kedu ubuzu zowoz ba umahospo ase ezli. Mare da pahhoh levuku esnovvan hidtinan aho tevi wehoduwa sikwad il tihe fotufu. Ebinnuj keklor adivucwa izajodik midka raot racu ale wepijni rismuru lanifho ke zebhave ajhulez inihouji efupij. Luduson cuhjenow torin hesuha bulnu edavawos vaf uto seuj utadikcig ikezedac des nirriwjeg hufcuget.",
+    "bio": "Zoofgu lomi jici avabahev tujnumra agu novha nod pibnomar hilipu hodif vohmusbal vo ultedo sicar eti huru zudesziw. Mo wagegzav vamopor ovi gipsohul lufigip epuso olevalub parbogiw emi hofoz ki ho pisuhe. Zesob uneski lo dig ewi cire opmev vos voacha ipevetu fadofig deib hudumij evahu."
+  },
+  "apiKey": "ecf0e9aed26a54af9f4a5f30ba8c82fed248947c8d13ae2ff09738befc4e5dee",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
