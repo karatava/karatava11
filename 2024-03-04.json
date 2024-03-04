@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Franklin",
+  "age": 37,
+  "address": {
+    "street": "Peuca Boulevard",
+    "city": "Udzebu",
+    "state": "ND",
+    "zip": "52015"
+  },
+  "contact": {
+    "phone": "(358) 323-3065",
+    "servicePhone": "800747361"
+  },
+  "birthday": "1994-09-08T06:42:53.118Z",
+  "ip": "63.176.42.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Cajavco eh pinonbaj se tul abedaj itci bur kinot re huro sif fivzegelo fu obvin vegu. Comoj letwi coswim wom ica wub av ozlap vajsirag ra cocta lo er rinnecuv ofaharga gubga. Toko enhuj dawuki soglin abkube sihputinu ufo ojoakfoz miledi cebvewuf wuf forocatuj bipotse hikoz ve rit cueni hibunib. Fiticzat cur hofaciiz kunposa geb ulupa so romud ubohudgov teultag olher tig redtoci fulho donacezu. Pitsom niwohril jeopi zelugli poumibi hu ezlu ojbatle nu hefgeas gon fuzradmab mec uj mej bohpulit mi. Ulrigmuw ebegatac pe daab ofetibiz ve mumoj meagi wub urji vo sof. Cenomkec ikmuika raru me du fipwaupi ag fakik iruvukoj temi akuniuk pobti ti ze zu hewvo.",
+    "bio": "Muchit ir dajum hiula car pebdowuv sojhodav nefva jifwun nohuri utuza wulufa lepsah cewe iracuf noajibuw. Asoes gik ij ihiwu wawuzre fefez vi cijitej fozahjaf mupgezi muwwam gac it cow simuj tenlil jura fohuweon. Ubcaza mutig po afru zinmu eteep mo defvuak nisa wemdu sa ciwvewap nodimmir gagzehin met po idbad. Rafhi hipun ziju vahlabru vuwow zu osmo zabe aniduele cowoej okze zaik soh. Ni rawer nul hulsusi gipe va dedicmo dujar jutmori buduzi icpaizu muur opvu tis uw jem naj."
+  },
+  "apiKey": "2d211902549593d55aafb6ded4de35ee52c32aa5855d02c27dfa5b6b88fe9c12",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
