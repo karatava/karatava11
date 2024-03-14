@@ -1,0 +1,26 @@
+{
+  "name": "Brett Andrews",
+  "age": 50,
+  "address": {
+    "street": "Vemeb Ridge",
+    "city": "Muffimu",
+    "state": "UT",
+    "zip": "32358"
+  },
+  "contact": {
+    "phone": "(683) 779-4330",
+    "servicePhone": "800517846"
+  },
+  "birthday": "1999-02-03T05:44:58.275Z",
+  "ip": "248.140.107.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca cojugopaj tilmizobe wumkeroh niwovpip cecelli amo neh tu voko zophun rooge igvep oz urwi. Ozehe soh imoke do hegecaj ifir ralzoehe pu nen sobu zuh zesuzo toes rotabvov miwge nikemi. Toki bo boh dohak ez onfubosi cereel bup upi ruh vasrichi ad cu bebobci.",
+    "bio": "Tilow gej kurpimjo nu vuiwu kilfuf atgawcaz da jolik jaz vopadwa caz sigjoota jonfi wuntu. Kuvisi rokohpe gopkona nosom ugowoke giufu soz ap zucup ci nireb vuuso totaor temfu ba. Ogjazguc sokewlon ciwtez rolamup unaeh rejzota jusekbeb vosofefi capujpic wis afegeriz zu gig mefot icudishes fip sauv. Ahorozob pewuh zegges wothal josugvi ifinug ehazuk dawa wu wajamu ozgauco oda sotdip da kiego igeeb mapor. Zuro nu reidi je jo fuecdej zumwonem etwuptan op lebu lacnu necuvku. Bi wajalit ze juf tollegdu ci vu vijov oruzu mo zolmaruza kissi ruv su nah abonizosa."
+  },
+  "apiKey": "5580776aa83d448c8b2c8b9bfe1adb7b912904474d7a7be5b422078c85c130ce",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
