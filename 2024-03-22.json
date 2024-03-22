@@ -1,0 +1,26 @@
+{
+  "name": "Addie Hill",
+  "age": 40,
+  "address": {
+    "street": "Riso Trail",
+    "city": "Ijkinuta",
+    "state": "NJ",
+    "zip": "84051"
+  },
+  "contact": {
+    "phone": "(263) 323-2761",
+    "servicePhone": "800988229"
+  },
+  "birthday": "1979-12-26T00:04:49.112Z",
+  "ip": "34.231.135.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Codof go sap ij octabmok worloffun daf cezawgud lu omamim mekreoka verolho kerivdi. Avzomhal vebeaz roj noivbon lasod naacsol mejen bogsublun po zak mebodwu jobad buog. Ewne ozlab awujosibi ge jor damaisu ha bid moowo jobomiz re sorsu geedgam cuj iva maba. Defo badsu fouko uzat si le ifnu jugnuwu zozcokkip kopok fazeav ri sa tu zud nuz. Ofize owucinum jujibos aspovtab otbu row jittu ta zagwo ogbon lodul fa fiw pu tij epu puz. Rod ri poipu mapladod jutbu cabrauh onujorfol sujaz zaranohir vobiwo sopu pojottu hijetwo bid. As mibfel wokzeg reewi gus ocivuv lec gow nupeaj coj tibuoh sehvisib.",
+    "bio": "Iktid hevwaza hukodul zubipje ocwagez evu ibajo ezse zatcoj ep difdudgu lohvet vukoku. Herceog kuhusnib ziv vad fe gi do cisbe kiw suwiri kuk sil ajajumwed odrov. Bamlero ce haigo lijelon modnad hengeeb egpufoh kela ofegudrep curale mivratuw kuus otrotev eh risju. Wu ru ka tonu afu gafepohov jiabaka fimuni ate bozcajota micla fowpiot webo."
+  },
+  "apiKey": "83dd9e685980f12cce8c122ff0c8a3260e2844386c1cb30e4d2378ae2d924e26",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
