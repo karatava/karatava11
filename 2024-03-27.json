@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Crawford",
+  "age": 46,
+  "address": {
+    "street": "Selva Mill",
+    "city": "Dokirine",
+    "state": "DC",
+    "zip": "65694"
+  },
+  "contact": {
+    "phone": "(913) 984-2403",
+    "servicePhone": "800173895"
+  },
+  "birthday": "1980-03-26T17:59:54.881Z",
+  "ip": "42.238.234.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Ginarsac gi urekobev awi macuju binse wuzderes luumi vijhi uwfougu lun cizluw dawpiruw be keharu. Pawudeg fo jaf feopafah nul nu iwu foup feznap omamuow miwevi api panfadi. Vufcizvan ero du va guplan cobbeco nifagar cakwacfaw cimofocon zibakeza rosho ro nohlec jalzocmow rih rido.",
+    "bio": "Etgo dokpikca ju vu jebo tozlarka nahaf duvuaw faho bomle oj minic. Guhtibja os ne picar wewipam ruzimlez pacifa lusime zel hetaf deeha roglituk mucupoduf foj. Leojelis rozi gegip kaege asmisbu maha nici uto lamowmu iluucase rawotalo tuvtehkuc likado ezlihiba vawuuke bekupijek."
+  },
+  "apiKey": "befaf9d632ced70b50dceda29524d2abae02ae833203f45b7d15b42775a76a23",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
