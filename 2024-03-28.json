@@ -1,0 +1,26 @@
+{
+  "name": "Lucille Abbott",
+  "age": 48,
+  "address": {
+    "street": "Noku Terrace",
+    "city": "Iheonesek",
+    "state": "SD",
+    "zip": "94444"
+  },
+  "contact": {
+    "phone": "(712) 574-4710",
+    "servicePhone": "800827259"
+  },
+  "birthday": "1993-08-19T01:26:21.643Z",
+  "ip": "123.19.123.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Gorjuas vorkeb pipek jeh jefnepepe ovori parje lohif usi ha no heavbaw. No ipiji lookul pomlenuw he do uciiboere gelezhi eg ifigo pav butifovo kegbecu gickawor lagedha evsu ijwafem. Ri jim jaazba semo wujdug ankuplo ikihoja on ubafa ju le dem sumgob wajo ehutoeku li.",
+    "bio": "Zivnajo siewu erunip nagku odu simwivwa lumpuw vucol tianomaz tas tu soteve. Cevreke lemhewe penu ligkos gavel jiwuj ih ik neanafus fesnu ba becza balvijno seam vupocah deh idagi. Me zuguec bev ilehig kamce foz oguzecer owit kod sigapmew isziwvu orfu. Palfo ir aju molzauga atteehe vukop ne patohhim avwashe jon vad jevsuv pubrod bi zozci iju halo ezzazir. Miibo pifgujuvo kij aku re viucojit pin ehohanel wu pi zehki ki gi meot vov eczop gecu nivkog. Ezpamsab ogomumku gukraksod di pu hacabmig milu vem nujfih ogugekki su ma vu wohre ezku suj. Mu levlu jic deshecgub pul mijjuv vowirgew teifune kevnibo lok litcizto hozana buve ki higo ok foar."
+  },
+  "apiKey": "9a403a57c63989d2c63816f6096420c7ef1c2fa3bc3fe8ee74dc48c746abdbe7",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
